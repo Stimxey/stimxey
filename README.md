@@ -1,12 +1,9 @@
 <img align='center' src='https://cdn.glitch.com/358807fd-7cdf-409e-9bef-727ae3b9d8f3%2Fstimxey.png' width='100%'> 
 
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Stimxey/stimxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
