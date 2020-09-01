@@ -1,4 +1,4 @@
-<img align='center' src='https://cdn.glitch.com/358807fd-7cdf-409e-9bef-727ae3b9d8f3%2Fstimxey.png' width='20%'> 
+<img align='center' src='https://cdn.glitch.com/358807fd-7cdf-409e-9bef-727ae3b9d8f3%2Fstimxey.png' width='100%'> 
 
 ### Hi there 👋
 
