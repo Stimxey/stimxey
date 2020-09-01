@@ -1,5 +1,4 @@
 <img align='left' src='https://raw.githubusercontent.com/Stimxey/stimxey/master/img/s.png' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/Stimxey/stimxey/master/img/s.png' width='20%'>  
 
 ### Hi there 👋
 
