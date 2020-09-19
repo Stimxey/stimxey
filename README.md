@@ -17,6 +17,6 @@
   <h4> <i> My GitHub Statistics </i> </h4>
   <img src="https://github-readme-stats.vercel.app/api?username=Stimxey&show_icons=true&hide_border=true&theme=dark">
   
-  <h2>Pinned Repositories</h2>
+  <h2> <i> Pinned Repositories </i> </h2>
   <p>Take a look at my most outstanding repositories.</p>
 </div>
