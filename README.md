@@ -10,8 +10,8 @@
   <code><img width="25px" src="https://raw.githubusercontent.com/Stimxey/Stimxey/master/assets/nodejs.svg"></code>
   <!-- <code><img width="25px" src="https://raw.githubusercontent.com/Stimxey/Stimxey/master/assets/docker.svg"></code>
   <code><img width="25px" src="https://raw.githubusercontent.com/Stimxey/Stimxey/master/assets/webstorm.svg"></code>
-  <code><img width="25px" src="https://raw.githubusercontent.com/Stimxey/Stimxey/master/assets/intellij.svg"></code>
-  <code><img width="25px" src="https://raw.githubusercontent.com/Stimxey/Stimxey/master/assets/visualstudiocode.svg"></code> -->
+  <code><img width="25px" src="https://raw.githubusercontent.com/Stimxey/Stimxey/master/assets/intellij.svg"></code> -->
+  <code><img width="25px" src="https://raw.githubusercontent.com/Stimxey/Stimxey/master/assets/visualstudiocode.svg"></code> 
   <code><img width="25px" src="https://raw.githubusercontent.com/Stimxey/Stimxey/master/assets/git.svg"></code>
 
   <h4> <i> My GitHub Statistics </i> </h4>
